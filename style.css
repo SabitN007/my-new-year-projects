@@ -331,21 +331,26 @@
 
 
 }
+.subs-sec-p{
+    color: rgba(7, 2, 17, 0.60);;
+}
 .usr{
     padding:25px 477px 25px 30px;
-    border-left: 2px solid black;
     border-radius: 50px;
     margin-top: 50px;
+    background-color: white;
+    border: none;
 
 }
 .sub-mit{
     padding:20px;
-    margin-left: -30px;
+    margin-left: -70px;
     padding: 24px 56px 24px 56px;
-    border-right: 2px solid black;
-    border-radius: 50px;
+    border-left: 0px;
+    border-radius: 0px 50px 50px 0px;
     background-color: #F00;
     color: white;
     margin-top: 50px;
+    border: none;
 
 }
