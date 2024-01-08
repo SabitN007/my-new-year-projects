@@ -174,7 +174,7 @@
 
 /* new best offer section */
 .nb-offer {
-    
+
 }
 
 .nb-sub-2 {
@@ -208,10 +208,24 @@
     font-size: 18px;
     font-weight: 400;
 }
-.nb-details-1{
+
+.nb-details-1 {
     color: red;
 
 }
-.nb-sub-2{
+
+.nb-sub-2 {
     font-size: 20px;
+}
+.nwimg{
+    margin-left: 650px;
+    margin-top: -200px;
+    border:15px solid red ;
+    border-radius: 463px;
+    padding: 30px 30px 30px 30px;
+}
+
+.nwimg22{
+    margin-top: -250px;
+    margin-left: 1200px;
 }
