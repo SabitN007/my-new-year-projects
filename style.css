@@ -332,7 +332,12 @@
 
 }
 .subs-sec-p{
-    color: rgba(7, 2, 17, 0.60);;
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 25px;
+
+}
+.subs-sec-h{
+    font-size: 48px;
 }
 .usr{
     padding:25px 477px 25px 30px;
@@ -360,3 +365,7 @@
     background-color: #070211;
     color: #F00;
 }
+.subs-sec2> img, input{
+    margin-top: 50px;
+}
+
