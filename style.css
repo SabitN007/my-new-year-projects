@@ -337,7 +337,7 @@
 .usr{
     padding:25px 477px 25px 30px;
     border-radius: 50px;
-    margin-top: 50px;
+    margin-top: 48px;
     background-color: white;
     border: none;
 
@@ -345,12 +345,18 @@
 .sub-mit{
     padding:20px;
     margin-left: -70px;
-    padding: 24px 56px 24px 56px;
+    padding: 18px 56px 23px 56px;
     border-left: 0px;
     border-radius: 0px 50px 50px 0px;
     background-color: #F00;
     color: white;
-    margin-top: 50px;
+    margin-top: 52px;
     border: none;
+    font-size: 20px;
+    font-weight: 600;
 
+}
+.sub-mit:hover{
+    background-color: #070211;
+    color: #F00;
 }
