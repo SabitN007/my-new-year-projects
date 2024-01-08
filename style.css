@@ -321,3 +321,31 @@
     height: 430px;
     
 }
+/* subscribe section */
+.subs-sec{
+    text-align: center;
+    background-color: rgba(255, 0, 0, 0.05);;
+    border-radius: 10px;
+    margin: 120px 230px 120px 230px;
+    height: 600px;
+
+
+}
+.usr{
+    padding:25px 477px 25px 30px;
+    border-left: 2px solid black;
+    border-radius: 50px;
+    margin-top: 50px;
+
+}
+.sub-mit{
+    padding:20px;
+    margin-left: -30px;
+    padding: 24px 56px 24px 56px;
+    border-right: 2px solid black;
+    border-radius: 50px;
+    background-color: #F00;
+    color: white;
+    margin-top: 50px;
+
+}
