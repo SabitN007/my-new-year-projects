@@ -11,10 +11,10 @@
     background-repeat: no-repeat;
     background-position: center;
     height: 700px;
-    flex-shrink: 0;
     margin-left: 300px;
     margin-right: 300px;
-    padding-top: -50px;
+    padding: -50px;
+    border-radius: 16px;
 
 }
 
@@ -173,9 +173,7 @@
 }
 
 /* new best offer section */
-.nb-offer {
-
-}
+.nb-offer {}
 
 .nb-sub-2 {
     margin-left: 600px;
@@ -217,15 +215,65 @@
 .nb-sub-2 {
     font-size: 20px;
 }
-.nwimg{
+
+.nwimg {
     margin-left: 650px;
     margin-top: -200px;
-    border:15px solid red ;
+    border: 15px solid red;
     border-radius: 463px;
     padding: 30px 30px 30px 30px;
 }
 
-.nwimg22{
+.nwimg22 {
     margin-top: -250px;
     margin-left: 1200px;
+}
+
+/* holiday section */
+
+.holidy {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.what-is {
+    color: black;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.holidys {
+    color: black;
+    font-size: 72px;
+    font-weight: 900;
+}
+
+.holidys>span {
+    color: red;
+}
+.hs-para{
+    color: #07021199;
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 60px;
+
+
+}
+/* 50% section */
+.fty-rec{
+    margin-left: 1100px;
+}
+.fty-rec2{
+    margin-left: 900px;
+    margin-top: -400px;
+    display: block;
+}
+.fty-rec3{
+    margin-left: 210px;
+    margin-top: 50px;
+    
+}
+.fty-rec4{
+    margin-top: -730px;
+    margin-left: 210px;
 }
